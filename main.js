@@ -29,7 +29,7 @@ function showPage(pageName) {
 
 const INSTAGRAM_URL = 'https://www.instagram.com/nord_afrik?igsh=NWc0MGxoeGxldmp4';
 
-// Add click event to all Instagram redirect buttons
+//  click event to all Instagram redirect buttons
 document.addEventListener('DOMContentLoaded', function() {
     const instagramButtons = document.querySelectorAll('.instagram-redirect-btn');
     
